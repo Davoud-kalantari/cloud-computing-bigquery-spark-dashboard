@@ -1,0 +1,12 @@
+bigquery_key.json
+**/bigquery_key.json
+*.key
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+*.pyc
+*.tmp
+~$*
