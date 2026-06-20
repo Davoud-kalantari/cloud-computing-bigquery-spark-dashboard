@@ -10,7 +10,7 @@ The original Looker Studio dashboard is no longer reproducible because its datas
 
 ## Main artifact
 
-- [databricks_dashboard.ipynb](C:/Users/David/OneDrive/Documenti/github-sistemazione/dashboard/databricks_dashboard.ipynb)
+- [databricks_dashboard.ipynb](./databricks_dashboard.ipynb)
 
 ## What the notebook does
 
@@ -34,7 +34,7 @@ The notebook:
    python -m pip install -r requirements.txt
    ```
 
-3. Open [databricks_dashboard.ipynb](C:/Users/David/OneDrive/Documenti/github-sistemazione/dashboard/databricks_dashboard.ipynb).
+3. Open [databricks_dashboard.ipynb](./databricks_dashboard.ipynb).
 4. Run all cells from top to bottom.
 5. The notebook will first look for `dashboard/data/Ecommerce Customers.csv`.
 6. If PySpark is available locally, it may use Spark; otherwise it falls back to pandas for loading.

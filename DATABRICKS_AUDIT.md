@@ -1,7 +1,7 @@
 # Databricks Audit
 
 Folder analyzed:
-- [raw_databricks_exports](C:/Users/David/OneDrive/Documenti/github-sistemazione/raw_databricks_exports)
+- [raw_databricks_exports](./raw_databricks_exports/)
 
 Scope:
 - analysis only

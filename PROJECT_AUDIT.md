@@ -1,10 +1,10 @@
 # Project Audit
 
 Source archive checked:
-- `C:\Users\David\Desktop\DATA SCIENCE MAGISTRALE`
-- Inspected subfolders only:
-  - `C:\Users\David\Desktop\DATA SCIENCE MAGISTRALE\Cloud Computing`
-  - `C:\Users\David\Desktop\DATA SCIENCE MAGISTRALE\BIG DATA`
+- local university coursework archive
+- inspected source areas only:
+  - `Cloud Computing`
+  - `BIG DATA`
 
 ## 1) Cloud Computing
 

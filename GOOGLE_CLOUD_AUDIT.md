@@ -1,7 +1,7 @@
 # Google Cloud Audit
 
 Project folder inspected:
-- `C:\Users\David\Desktop\DATA SCIENCE MAGISTRALE\Cloud Computing`
+- original local `Cloud Computing` coursework folder
 
 Scope of this audit:
 - Google Cloud Platform part only

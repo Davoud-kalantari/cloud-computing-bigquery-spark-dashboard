@@ -1,6 +1,6 @@
 # Databricks Section
 
-This section organizes the Databricks material from the course into a GitHub-ready structure without changing the original exports in [raw_databricks_exports](C:/Users/David/OneDrive/Documenti/github-sistemazione/raw_databricks_exports).
+This section organizes the Databricks material from the course into a GitHub-ready structure without changing the original exports in [../raw_databricks_exports/](../raw_databricks_exports/).
 
 ## Why multiple notebook versions are intentionally kept
 
@@ -14,9 +14,9 @@ For that reason, the Spark SQL notebooks and the Spark DataFrame/operator notebo
 
 ## Structure
 
-- [notebooks/spark_sql](C:/Users/David/OneDrive/Documenti/github-sistemazione/databricks/notebooks/spark_sql)
-- [notebooks/spark_dataframe](C:/Users/David/OneDrive/Documenti/github-sistemazione/databricks/notebooks/spark_dataframe)
-- [notebooks/data_enrichment](C:/Users/David/OneDrive/Documenti/github-sistemazione/databricks/notebooks/data_enrichment)
+- [notebooks/spark_sql](./notebooks/spark_sql/)
+- [notebooks/spark_dataframe](./notebooks/spark_dataframe/)
+- [notebooks/data_enrichment](./notebooks/data_enrichment/)
 
 ## Notebook groups
 
@@ -65,7 +65,7 @@ If you later want to present it as an MLlib example, it would need a real refact
 
 The notebook-to-query comparison is documented in:
 
-- [docs/query_mapping.md](C:/Users/David/OneDrive/Documenti/github-sistemazione/docs/query_mapping.md)
+- [docs/query_mapping.md](../docs/query_mapping.md)
 
 ## Known mismatch to resolve later
 
